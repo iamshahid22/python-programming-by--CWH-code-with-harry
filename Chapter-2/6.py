@@ -1,0 +1,7 @@
+a=int(input("enter a number 1:"))
+b=int(input("enter a number 2:"))
+print("a is greater than b is:",a>b)
+print("a is less than b is:",a<b)
+print("The avg of two numbers is:",(a+b)/2)
+print("Square of number a is:",a**2)
+print("Square of number a is:",a*a)

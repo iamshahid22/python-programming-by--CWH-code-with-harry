@@ -1,0 +1,9 @@
+a="DHAIN"
+b=1309
+c=13.09
+t=type(a)
+U=type(b)
+V=type(c)
+print(U)
+print(t)
+print(V)
